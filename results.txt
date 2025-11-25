@@ -1,0 +1,5 @@
+Computer Name: ThomasK-PC
+Date of Test: 2025-11-25 01:30:58
+Bubble Sort Time: 7.023507 seconds
+Quick Sort Time: 0.013973 seconds
+
