@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Computer Name: ThomasK-Laptop
 Date of Test: 2025-11-25 01:31:23
 Bubble Sort Time: 2.769316 seconds
 Quick Sort Time: 0.007784 seconds
+=======
+Computer Name: ThomasK-PC
+Date of Test: 2025-11-25 01:30:58
+Bubble Sort Time: 7.023507 seconds
+Quick Sort Time: 0.013973 seconds
+>>>>>>> d47274084c5a07e40c793cfda7a2e5f31dea7e95
 
